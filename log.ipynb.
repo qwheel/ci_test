@@ -1,0 +1,33 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Log: commits and linter\n",
+    "\n",
+    "## What I did\n",
+    "- Watched the video about commits and working with a linter.\n",
+    "- Initialized the repository and installed pre-commit (`pre-commit install`).\n",
+    "- Ran `pre-commit run --all-files` to check all files with the linter.\n",
+    "- Fixed the issues the linter found and made a commit.\n",
+    "\n",
+    "## What I learned\n",
+    "- A linter checks code style automatically before each commit.\n",
+    "- Commit messages should follow Conventional Commits."
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "name": "python"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
